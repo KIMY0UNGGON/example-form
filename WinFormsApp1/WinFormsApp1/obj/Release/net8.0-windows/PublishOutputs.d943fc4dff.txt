@@ -1,0 +1,5 @@
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\webTestEX.exe
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\webTestEX.dll
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\webTestEX.deps.json
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\webTestEX.runtimeconfig.json
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\webTestEX.pdb

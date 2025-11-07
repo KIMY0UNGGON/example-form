@@ -1,0 +1,17 @@
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\웹프 문제 테스트.exe
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\웹프 문제 테스트.deps.json
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\웹프 문제 테스트.runtimeconfig.json
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\웹프 문제 테스트.dll
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\웹프 문제 테스트.pdb
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\웹프_문제_테스트.Properties.Resources.resources
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\웹프 문제 테스트.csproj.GenerateResource.cache
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\웹프 문제 테스트.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\웹프 문제 테스트.AssemblyInfoInputs.cache
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\웹프 문제 테스트.AssemblyInfo.cs
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\웹프 문제 테스트.csproj.CoreCompileInputs.cache
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\웹프 문제 테스트.dll
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\refint\웹프 문제 테스트.dll
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\웹프 문제 테스트.pdb
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\웹프 문제 테스트.genruntimeconfig.cache
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\ref\웹프 문제 테스트.dll

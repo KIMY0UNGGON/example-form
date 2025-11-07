@@ -1,0 +1,17 @@
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\webTestEX.exe
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\webTestEX.deps.json
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\webTestEX.runtimeconfig.json
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\webTestEX.dll
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\webTestEX.pdb
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\webTestEX.Properties.Resources.resources
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\webTestEX.csproj.GenerateResource.cache
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\webTestEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\webTestEX.AssemblyInfoInputs.cache
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\webTestEX.AssemblyInfo.cs
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\webTestEX.csproj.CoreCompileInputs.cache
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\webTestEX.dll
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\refint\webTestEX.dll
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\webTestEX.pdb
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\webTestEX.genruntimeconfig.cache
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\ref\webTestEX.dll

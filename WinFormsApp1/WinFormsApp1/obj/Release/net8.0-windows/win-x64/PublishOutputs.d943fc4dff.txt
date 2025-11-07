@@ -1,0 +1,2 @@
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\webTestEX.pdb
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\webTestEX.exe

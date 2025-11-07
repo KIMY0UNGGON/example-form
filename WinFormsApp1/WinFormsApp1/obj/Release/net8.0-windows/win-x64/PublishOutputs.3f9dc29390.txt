@@ -1,0 +1,2 @@
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x64\웹프 문제 테스트.pdb
+C:\Users\yg\OneDrive\desktop\test3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x64\웹프 문제 테스트.exe
